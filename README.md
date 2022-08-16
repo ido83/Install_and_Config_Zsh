@@ -88,7 +88,10 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 
 
-
+REFERENCE:
+```
+https://github.com/romkatv/powerlevel10k
+```
 
 
 
